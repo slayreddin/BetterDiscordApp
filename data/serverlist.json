@@ -769,6 +769,13 @@
       "icon": null,
       "language": "EN",
       "title": "Rivals of Aether"
+    },
+    "GameComms - Gaming, Social, Fun": {
+    	"code": "0kHDaqm7Myfzkp7R",
+    	"description": "Love gaming, Join us we are a good bunch!",
+    	"icon": null,
+    	"language": "EN"
+    	"title": "GameComms - Gaming, Social, Fun"
     }
   }
 }
